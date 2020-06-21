@@ -1,0 +1,13 @@
+
+
+.title {
+	position: absolute;
+	top: 18px;
+	font-size: 20pt;
+}
+
+.subtitle {
+	position: absolute;
+	top: 54px;
+	font-size: 14pt;
+}
